@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# eBook Spring in Action
+# eBook Springboot in Action
 
 ![ebook image](images/ebook.png)
 
